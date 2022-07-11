@@ -1,0 +1,36 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background: color #f8f5f9; ;
+}
+.color{
+    color: #FEEFB2;
+}
+#colordiv1{
+    color: #F8C929;
+}
+#colordiv2{
+    background-color: #774AD8;
+    margin:0 auto;
+    padding: 32px 24px 32px 24px;
+    border-radius: 50px;
+    width:700px;
+}
+.colora{
+    color:#F3E9FF ;
+}
+p{
+    color: #F8F5F9;
+}
+.btn_download{
+    background-color: #F8C929;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+.footer{
+    margin-top: 50px;
+}
+.logoimg{
+    width: 270px;
+    height: 150px;
+    margin-bottom: 20px;
+}
